@@ -144,3 +144,7 @@
 // console.log('1' != 2)
 
 console.log("Oleh")
+console.log("29")
+console.log("03/29")
+console.log("1994")
+console.log("Kravets")
