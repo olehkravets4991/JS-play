@@ -3,7 +3,8 @@
 Oleh Kravets Playground
 
 ```Python
-print("code")
+print("Hello Everyone")
+print("This is my training repo")
 ```
 
 ```JS
