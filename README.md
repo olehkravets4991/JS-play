@@ -8,4 +8,5 @@ print("code")
 
 ```JS
 console.log("Oleh")
+console.log("Kravets")
 ```
