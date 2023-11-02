@@ -9,5 +9,5 @@ print("This is my training repo")
 
 ```JS
 console.log("Oleh")
-console.log("Kravets")
+console.log("Kravets!")
 ```
