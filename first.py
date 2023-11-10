@@ -1,2 +1,5 @@
 print("Oleh")
 print("Kravets")
+print("Kravets")
+print("Kravets")
+print("Kravets")
