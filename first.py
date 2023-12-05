@@ -1,5 +1,5 @@
 print("Oleh")
 print("Kravets")
-print("Kravets")
+print(" ")
 print("Kravets")
 print("Kravets")
